@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "865060887946",
+    "project_id": "fiverr-apps-c6f29",
+    "storage_bucket": "fiverr-apps-c6f29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865060887946:android:29c95e011c367828f7fc73",
+        "android_client_info": {
+          "package_name": "com.candycrush.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865060887946-hl2ij3rmfve09ri5r9lbitrn1n1pa04s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC84WGZHUvFR0fbpbOi3QP4v5szlrcWDzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865060887946-hl2ij3rmfve09ri5r9lbitrn1n1pa04s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865060887946:android:c5630558ce4b6812f7fc73",
+        "android_client_info": {
+          "package_name": "com.havan.candyc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865060887946-hl2ij3rmfve09ri5r9lbitrn1n1pa04s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC84WGZHUvFR0fbpbOi3QP4v5szlrcWDzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865060887946-hl2ij3rmfve09ri5r9lbitrn1n1pa04s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865060887946:android:2f7b891aa1013eb9f7fc73",
+        "android_client_info": {
+          "package_name": "com.havan.candyc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865060887946-hl2ij3rmfve09ri5r9lbitrn1n1pa04s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC84WGZHUvFR0fbpbOi3QP4v5szlrcWDzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865060887946-hl2ij3rmfve09ri5r9lbitrn1n1pa04s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
